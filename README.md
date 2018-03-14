@@ -2,12 +2,20 @@
 
 rAvR is a augmented reality application for djs and patrons to experience a new layer of music experience.
 
+rAvR is a one of a kind music application with the thought that musicians and djs should experience creators through music. rAvR focuses on creating a new visual, sonic and interactive experience between the music fans and performers. 
+
+No longer are music shows a one way experience where djs play to a crowd, fans now can actively participate in selecting music, selecting tracks and seeing visuals that could never be physically possible.
+
+Fans can interact with music in various ways. By selecting various blocks and elements on the blocks, which the dj has created, fans can create different basslines, vocals or samples. 
+
+The performers can also assign various spaces and locations of a venue with dynamic sounds or visuals, where fans can move to physically and mix in music or samples into the currently playing tracks by the peformers.
+
 
 
 
 ## Inspiration
 
-As a group of musicians, graphics designers and computer scientists, we have been seeking a way to experience music and music events with djs and performers in a new an innovative way.
+As a group of musicians, graphics designers and computer scientists, we have been seeking a new way to experience music and music events with live performers in a new an innovative way. rAvR came to us, after thinking about how music, music performance and the show experience could be differently thought about in the context of using AR or VR. We also wanted a new lay of interactivity between the performer and fans, in a way that could never been possible without AR or VR.
 
 
 ## What it does
