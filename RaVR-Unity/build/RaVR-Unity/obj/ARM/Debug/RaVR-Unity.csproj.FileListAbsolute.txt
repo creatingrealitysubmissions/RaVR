@@ -1,0 +1,2 @@
+C:\Users\theCydonian\Documents\GitHub\RaVR_private\RaVR-Unity\build\RaVR-Unity\obj\ARM\Debug\RaVR-Unity.csprojResolveAssemblyReference.cache
+C:\Users\theCydonian\Documents\GitHub\RaVR_private\RaVR-Unity\build\RaVR-Unity\obj\ARM\Debug\RaVR-Unity.csproj.CoreCompileInputs.cache

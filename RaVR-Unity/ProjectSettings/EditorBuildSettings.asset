@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/thiccboisneverdie.unity
+    guid: 231dc26c8bf4c404b8e34413cb010f2b
+  - enabled: 1
+    path: Assets/placer.unity
+    guid: 9aa40db1850098845a58f3a305085962

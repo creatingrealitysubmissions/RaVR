@@ -31,14 +31,21 @@ Another challenge we ran into, was creating a networked solution for the hololen
 
 In graphics, understanding how to create actionable content, while creating a interesting environment, ease of use and understandable actions was a challenge we had to over come.
 
+- The main challenge with this project was handling the hololens platform and since I have never interacted with a Hololens device before it took me a while to learn the inputs and I wasn’t able to figure out how to network two devices with each other, but I did get very close!
+
+
 ## Accomplishments that we're proud of
 
+None of our team members had experience with the hololens before the hackathon started.  Our software engineeers are high school students, 16 and 14 years old.  
 
+I am actually proud that I was able to figure out how to use the hololens and that I got extremely close to figuring out the networking aspect of it. The fact that I got really close is an accomplishment because I had figured out a lot in a minimal amount of time.
 
 ## What we learned
 
-
+Spacial understanding.  Augmented Reality development hurdles including anchor points and user interaction with gameObjects in AR.  Optimization within Hololens.  Time management.
 
 ## What's next for rAvR
+
+Graaphical optimaztion for various delivery outlets.  Refine the networking to allow a seemless mutliplayer experience.
 
 
