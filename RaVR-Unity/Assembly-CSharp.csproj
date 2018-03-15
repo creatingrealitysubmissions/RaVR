@@ -518,6 +518,7 @@
      <Compile Include="Assets\Scripts\MoveCubeToPlayer.cs" />
      <Compile Include="Assets\Scripts\RotateCube.cs" />
      <Compile Include="Assets\Scripts\ShowButtonsFacing.cs" />
+     <Compile Include="Assets\Scripts\Timer.cs" />
      <Compile Include="Assets\SlowRotate.cs" />
      <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFConstant.cginc" />
      <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\UnlitConfigurable.shader" />

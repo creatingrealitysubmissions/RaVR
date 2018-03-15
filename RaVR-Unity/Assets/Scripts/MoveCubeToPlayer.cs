@@ -8,6 +8,7 @@ public class MoveCubeToPlayer : MonoBehaviour, IInputClickHandler
 
     public GameObject player; //set this by using hololens api
     private bool running = false;
+    private bool ran = false;
 
     // Use this for initialization
     void Start()
@@ -28,17 +29,20 @@ public class MoveCubeToPlayer : MonoBehaviour, IInputClickHandler
             }
             else {
                 running = false;
+                ran = true;
             }
         }
     }
 
     private void OnMouseDown()
     {
+        if(!ran)
         running = true;
     }
 
     public void OnInputClicked(InputClickedEventData eventData)
     {
-        running = true;
+        if (!ran)
+            running = true;
     }
 }
