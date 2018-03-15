@@ -514,6 +514,7 @@
      <Compile Include="Assets\Scripts\AudioManager.cs" />
      <Compile Include="Assets\Scripts\ChangeMusic.cs" />
      <Compile Include="Assets\Scripts\CubeButton.cs" />
+     <Compile Include="Assets\Scripts\InitialDragStop.cs" />
      <Compile Include="Assets\Scripts\Move.cs" />
      <Compile Include="Assets\Scripts\MoveCubeToPlayer.cs" />
      <Compile Include="Assets\Scripts\RotateCube.cs" />

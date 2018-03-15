@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:RaVR-Unity/Assets/Audio/Basslines/Bassline 2.wav.meta
 guid: 366c143da0fae2f4aad0229e79abe974
 timeCreated: 1521065809
+=======
+guid: 8675248901bad8347800fd9e8cc16362
+timeCreated: 1521069800
+>>>>>>> origin/DJBoothFloorMount:RaVR-Unity/Assets/Audio/Basslines/Bassline 2.wav.meta
 licenseType: Free
 AudioImporter:
   externalObjects: {}

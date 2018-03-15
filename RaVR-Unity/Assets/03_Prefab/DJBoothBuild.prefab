@@ -368,7 +368,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4986983753669816}
   - component: {fileID: 33074737725919608}
-  - component: {fileID: 65958872427925582}
   - component: {fileID: 23868171166338992}
   m_Layer: 0
   m_Name: DJBooth
@@ -470,8 +469,8 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4843181916730546}
-  - component: {fileID: 114675532365676860}
   - component: {fileID: 65750570699674422}
+  - component: {fileID: 114028097685088292}
   m_Layer: 0
   m_Name: DJBoothBuild
   m_TagString: Untagged
@@ -933,7 +932,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4010081798722458}
   - component: {fileID: 65904735132217476}
-  - component: {fileID: 114035517762843100}
+  - component: {fileID: 114031000588001376}
   m_Layer: 0
   m_Name: GameObject (7)
   m_TagString: Untagged
@@ -3718,8 +3717,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.1, y: 1.5, z: 1.5}
-  m_Center: {x: 0, y: -0.6, z: 0}
+  m_Size: {x: 2.3, y: 2, z: 1.7}
+  m_Center: {x: -0.05, y: 0.1, z: -0.2}
 --- !u!65 &65819922250428210
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -3743,18 +3742,6 @@ BoxCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.4, y: 0.15, z: 0.2}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!65 &65958872427925582
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1338937633886708}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!65 &65964581138183190
 BoxCollider:
@@ -5520,7 +5507,23 @@ Light:
   m_UseColorTemperature: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!114 &114035517762843100
+--- !u!114 &114028097685088292
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1435479207773860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d9f33ca821d92243a1d71e699419777, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RotationMode: 0
+  PositionLerpSpeed: 0.2
+  RotationLerpSpeed: 0.2
+  IsDraggingEnabled: 1
+  thisCollider: {fileID: 65750570699674422}
+--- !u!114 &114031000588001376
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -5881,23 +5884,6 @@ MonoBehaviour:
   vocalPlayed: 
   clock: {fileID: 1828611789065904}
   mod: 12
---- !u!114 &114675532365676860
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1435479207773860}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7d5a0a60fbe897549ad0bfe2039f12b6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  HostTransform: {fileID: 0}
-  DistanceScale: 2
-  RotationMode: 0
-  PositionLerpSpeed: 0.2
-  RotationLerpSpeed: 0.2
-  IsDraggingEnabled: 1
 --- !u!114 &114687865403783504
 MonoBehaviour:
   m_ObjectHideFlags: 1
